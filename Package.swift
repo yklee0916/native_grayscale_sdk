@@ -21,23 +21,23 @@ let package = Package(
       name: "NativeGrayscalePackage"),
     .binaryTarget(
       name: "App",
-      url: "https://github.com/yklee0916/native_grayscale_sdk/releases/download/1.0.0/App.xcframework.zip",
-      checksum: "af234fe679c827b7f28c7121d4f9b7f597ec9a2580583e3ee27a7120ad886607"),
+      url: "https://github.com/yklee0916/native_grayscale_sdk/releases/download/1.0.1/App.xcframework.zip",
+      checksum: "8b0d7ea66478d4fc8ee2f522041a2f59665063e2cfb5c7e9082e6758ddc06aab"),
     .binaryTarget(
       name: "Flutter",
-      url: "https://github.com/yklee0916/native_grayscale_sdk/releases/download/1.0.0/Flutter.xcframework.zip",
-      checksum: "857c8b3e6b03ff64af86a80c7dbecc7035628ed4ee9285a5b885dd5d00429d0a"),
+      url: "https://github.com/yklee0916/native_grayscale_sdk/releases/download/1.0.1/Flutter.xcframework.zip",
+      checksum: "4d15d5366b77d19e8083996aa833e95f731f9ce30b93b4af582531c09317e428"),
     .binaryTarget(
       name: "FlutterPluginRegistrant",
-      url: "https://github.com/yklee0916/native_grayscale_sdk/releases/download/1.0.0/FlutterPluginRegistrant.xcframework.zip",
-      checksum: "b4cb4d58880e56c26ccbba8e849d0c29005c63c228392d697e777ec9f0d7f6be"),
+      url: "https://github.com/yklee0916/native_grayscale_sdk/releases/download/1.0.1/FlutterPluginRegistrant.xcframework.zip",
+      checksum: "5748e8e904d88e5035530158e3cf217b1b77424306a75116280c3110122b9c1f"),
     .binaryTarget(
       name: "grayscale",
-      url: "https://github.com/yklee0916/native_grayscale_sdk/releases/download/1.0.0/grayscale.xcframework.zip",
-      checksum: "d1754011b93b8ce92f6ae4609066adb907741eb31ac8a65bede64a443305dcc3"),
+      url: "https://github.com/yklee0916/native_grayscale_sdk/releases/download/1.0.1/grayscale.xcframework.zip",
+      checksum: "21341a9580ebac10afa1450696d4fa1c96847f87b46e981b68d33810172462b4"),
     .binaryTarget(
       name: "NativeGrayscaleSDK",
-      url: "https://github.com/yklee0916/native_grayscale_sdk/releases/download/1.0.0/NativeGrayscaleSDK.xcframework.zip",
-      checksum: "51fb496639ccba0c8ba86f9d39d3bcea1d640e5e6917e45f0f5601279d8d7801"),
+      url: "https://github.com/yklee0916/native_grayscale_sdk/releases/download/1.0.1/NativeGrayscaleSDK.xcframework.zip",
+      checksum: "d6d9687f1ea27aacd3eda2131293810d74100325438c7d0d98ed2bbbee029525"),
   ]
 )
